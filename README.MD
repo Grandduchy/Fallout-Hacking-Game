@@ -1,7 +1,7 @@
 # Fallout Hacking Game
 
 Implementation of Fallout 3's Hacking Terminal Created in Javascript <br>
-A Pen created at CodePen.io with over 1500 plays. Original URL: [https://codepen.io/GrandDuchy/pen/rrpBWZ](https://codepen.io/GrandDuchy/pen/rrpBWZ).
+A Pen created at CodePen.io with over 1000 plays. Original URL: [https://codepen.io/GrandDuchy/pen/rrpBWZ](https://codepen.io/GrandDuchy/pen/rrpBWZ).
 
 <p align="center">
  <img src="demo.png">
